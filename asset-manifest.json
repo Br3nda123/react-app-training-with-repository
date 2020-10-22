@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-app-training-with-repository/static/css/main.523f09c5.chunk.css",
+    "main.js": "/react-app-training-with-repository/static/js/main.abb9dfa5.chunk.js",
+    "main.js.map": "/react-app-training-with-repository/static/js/main.abb9dfa5.chunk.js.map",
+    "runtime-main.js": "/react-app-training-with-repository/static/js/runtime-main.61e2a2c8.js",
+    "runtime-main.js.map": "/react-app-training-with-repository/static/js/runtime-main.61e2a2c8.js.map",
+    "static/js/2.14e6cfe8.chunk.js": "/react-app-training-with-repository/static/js/2.14e6cfe8.chunk.js",
+    "static/js/2.14e6cfe8.chunk.js.map": "/react-app-training-with-repository/static/js/2.14e6cfe8.chunk.js.map",
+    "index.html": "/react-app-training-with-repository/index.html",
+    "precache-manifest.e4a163d36f0865fabbfb562d11acb774.js": "/react-app-training-with-repository/precache-manifest.e4a163d36f0865fabbfb562d11acb774.js",
+    "service-worker.js": "/react-app-training-with-repository/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/react-app-training-with-repository/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.14e6cfe8.chunk.js.LICENSE.txt": "/react-app-training-with-repository/static/js/2.14e6cfe8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-app-training-with-repository/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61e2a2c8.js",
+    "static/js/2.14e6cfe8.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.abb9dfa5.chunk.js"
+  ]
+}
